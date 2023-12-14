@@ -1,0 +1,4 @@
+clean
+ciao
+bello
+ballare
